@@ -1,6 +1,6 @@
 # Pintos
 
-This is an operating system framework for the x86 instruction set architecture, built in a team of 2 for an operating systems class.
+This is an operating system framework for the x86 instruction set architecture, built in a team of 2
 
 ### Features
   - MLFQ scheduler and thread synchronization
